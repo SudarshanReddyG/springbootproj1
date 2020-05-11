@@ -1,1 +1,5 @@
-GET http://localhost:8080/rooms
+GET http://localhost:8080/api/rooms
+
+GET http://localhost:8080/api/guests
+
+GET http://localhost:8080/api/allreservations?dateString=2020-01-01
